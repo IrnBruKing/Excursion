@@ -1,6 +1,22 @@
+body {
+  background-color: black;
+}
+
 h1 {
   font-family: Verdana;
   font-weight: 50px;
   color: white;
   text-align: center;
+}
+
+h2 {
+  color: white;
+}
+
+h3 {
+  color: aquamarine;
+}
+
+p {
+  color: gray;
 }
